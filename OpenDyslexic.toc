@@ -1,0 +1,10 @@
+## Interface: 90002
+## Author: Zinmon
+## Notes:  Very small addon what allow you to use OpenDyslexic 3 font for World of Warcraft
+## Version: 0.1
+## Title: |cffff0000Zinmon|r |cff00ff00OpenDyslexic|r
+## SavedVariables: StatusSave
+## X-Category: Miscellaneous
+SharedMedia.lua
+
+Libs\LibStub\LibStub.lua
